@@ -1,6 +1,8 @@
 # Hi there 🙃
 
-Nice to see you, I'm Ngo Duc Hoang Son, an **InfoSec** student, and a **noob** 😎
+Nice to see you, My name is Ngo Duc Hoang Son, and I am:
+- a third-year **InfoSec** student at VNUHCM - University of Information Technology (UIT)
+- Also a **noob** 😎
 
 #### Things i have coded:
 
@@ -15,8 +17,9 @@ Nice to see you, I'm Ngo Duc Hoang Son, an **InfoSec** student, and a **noob** �
 
 #### I'm currently learning:
 - 🧑‍💻 Cyber security
-- 📄 Writting blog
 - 🤖 Machine learning
+- 📄 Writting blog
+
 
 #### Feel free to contact me 🥰 at:
 

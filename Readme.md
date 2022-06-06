@@ -2,7 +2,7 @@
 
 Nice to see you, My name is Ngo Duc Hoang Son, and I am:
 - A third-year **InfoSec** student at VNUHCM - University of Information Technology (UIT)
-- Also a **noob** 😎
+- A **noob** 😎
 
 #### Things i have coded:
 
